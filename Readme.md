@@ -1,4 +1,4 @@
-import cs50
+import cs50 introduction to computer science 
 import re
 import requests
 from flask import Flask, abort, redirect, render_template, make_response, request, jsonify
@@ -8,7 +8,7 @@ from werkzeug.exceptions import default_exceptions, HTTPException
 from helpers import *
 
 # Configure application
-app = Flask(__name__)
+app = Flask(__Abhishek9979__)
 
 # Reload templates when they are changed
 app.config["TEMPLATES_AUTO_RELOAD"] = True
